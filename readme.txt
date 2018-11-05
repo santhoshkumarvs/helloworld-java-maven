@@ -23,13 +23,13 @@ For any questions - Please email me at DevOps@RajeshKumar.xyz
 	<repository>
 		<id>rajesh</id>
 		<name>Internal Releases</name>
-		<url>http://13.127.94.210:8081/artifactory/list/rajesh-release/</url>
+		<url>http://13.127.94.210:8112/artifactory/list/rajesh-release/</url>
 	</repository>
  
 	<snapshotRepository>
 		<id>rajesh</id>
 		<name>Internal Releases</name>
-		<url>http://13.127.94.210:8081/artifactory/list/rajesh-snapshot/</url>
+		<url>http://13.127.94.210:8112/artifactory/list/rajesh-snapshot/</url>
 	</snapshotRepository>
 
 </distributionManagement>
