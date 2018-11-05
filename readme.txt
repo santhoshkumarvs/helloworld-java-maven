@@ -37,7 +37,7 @@ For any questions - Please email me at DevOps@RajeshKumar.xyz
 =====================SETTING.XML=================================
    <server>
 		<id>rajesh</id>
-		<username>rajesh-user</username>
+		<username>rajesh-user</username known>
 		<password>rajesh-user123</password>
 </server>
 
